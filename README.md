@@ -1,6 +1,6 @@
 # Netflix Clone
 
-![Netflix Logo](netflix_logo.png)
+![Netflix Logo]([netflix_logo.png](https://cdn.1min30.com/wp-content/uploads/2018/02/Couleur-logo-Netflix.jpg))
 
 ## Overview
 
